@@ -21,8 +21,8 @@ Before using the container, ensure the following requirements are met:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone git@github.com:gasmarshal/chrome-lighthouse.git
+cd chrome-lighthouse
 ```
 
 ### 2. Build the Docker Image
